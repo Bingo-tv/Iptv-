@@ -7,3 +7,4 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8  D
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8  E
 http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8  F
 http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8  G
+https://iptv-org.github.io/iptv/index.country.m3u   *
